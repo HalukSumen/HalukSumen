@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haluk</h1>
 <h3 align="center">A passionate Computer Engineer and Data Scientist</h3>
-
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/haluksumen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haluksumen" height="30" width="40" /></a>
