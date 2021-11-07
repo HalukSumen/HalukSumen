@@ -4,9 +4,10 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/haluksumen/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:haluksumen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
-
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 </p>
 <h3 align="center">Data Science & Machine Learning</h3>
 <p>
