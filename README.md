@@ -7,11 +7,15 @@
 <a href="mailto:haluksumen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 </p>
 <h3 align="center">Data Science & Machine Learning</h3>
-<p>
- 
+<p align="center">
+   <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
+   <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+   <a href="#"><img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
+   <a href="#"><img src="https://img.shields.io/badge/matplotlib-47A248?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/seaborn-47A248?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white"></a>
 </p>
  
 
@@ -29,9 +33,24 @@ https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoCol
 
 
 <h3 align="center">Database</h3>
-<p>
-
+<p align="center">
+   <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"></a>
+   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+   <a href="#"><img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"></a>
+   <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
- 
 
+
+<h3 align="center">Others</h3>
+<p align="center">
+   
+   <a href="#"><img src="https://img.shields.io/badge/Apache Kafka-1287B1?style=for-the-badge&logo=apachekafka&logoColor=white"></a>
+   
+</p> 
+
+ 
+ 
+ 
+ 
+ 
  
