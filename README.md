@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Haluk</h1>
+<p align="center">
+<img src="https://github.com/HalukSumen/HalukSumen/blob/main/header.gif?"></img> 
+</p>
 <h3 align="center">An Enthusiastic Computer Engineer and Data Scientist</h3>
+
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
@@ -14,10 +17,9 @@
    <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
    <a href="#"><img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
    <a href="#"><img src="https://img.shields.io/badge/matplotlib-47A248?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/seaborn-47A248?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white"></a>
-</p>
- 
+   <a href="#"><img src="https://img.shields.io/badge/seaborn-BE3939?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
+   <a href="#"><img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white"></a>
+</p> 
 
 <h3 align="center">Programming</h3>
 <p align="center">
@@ -28,24 +30,21 @@
    <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </p>
- 
-
-
 
 <h3 align="center">Database</h3>
 <p align="center">
    <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"></a>
    <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+   <a href="#"><img src="https://img.shields.io/badge/NoSQL-D00000?style=for-the-badge&logo=nosql&logoColor=white"></a>
    <a href="#"><img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"></a>
    <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
 
-
 <h3 align="center">Others</h3>
 <p align="center">
-   
    <a href="#"><img src="https://img.shields.io/badge/Apache Kafka-1287B1?style=for-the-badge&logo=apachekafka&logoColor=white"></a>
-   
+   <a href="#"><img src="https://img.shields.io/badge/Apache Hadoop-150458?style=for-the-badge&logo=apachehadoop&logoColor=white"></a>
+   <a href="#"><img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"></a>
 </p> 
 
  
