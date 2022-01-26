@@ -43,6 +43,7 @@
 <h3 align="center">Others</h3>
 <p align="center">
    <a href="#"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
+   <a href="#"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
 </p>
 
  
