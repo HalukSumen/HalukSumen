@@ -17,6 +17,7 @@
    <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
    <a href="#"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
    <a href="#"><img src="https://img.shields.io/badge/matplotlib-47A248?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
+   <a href="#"><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"></a>
    <a href="#"><img src="https://img.shields.io/badge/seaborn-BE3939?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
    <a href="#"><img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white"></a>
    <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
