@@ -19,6 +19,7 @@
    <a href="#"><img src="https://img.shields.io/badge/matplotlib-47A248?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
    <a href="#"><img src="https://img.shields.io/badge/seaborn-BE3939?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
    <a href="#"><img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white"></a>
+   <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
 </p> 
 
 <h3 align="center">Programming</h3>
@@ -38,9 +39,10 @@
    <a href="#"><img src="https://img.shields.io/badge/NoSQL-D00000?style=for-the-badge&logo=nosql&logoColor=white"></a>
    <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
- 
- 
- 
- 
- 
+
+<h3 align="center">Others</h3>
+<p align="center">
+   <a href="#"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
+</p>
+
  
