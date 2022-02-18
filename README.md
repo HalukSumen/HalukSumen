@@ -1,7 +1,5 @@
-<p align="center">
-<img src="https://github.com/HalukSumen/HalukSumen/blob/main/header.gif?"></img> 
-</p>
-<h3 align="center">An Enthusiastic Computer Engineer and Data Scientist</h3>
+
+<h3 align="center">An Enthusiastic Data Scientist</h3>
 
 
 <h3 align="center">Connect with me</h3>
